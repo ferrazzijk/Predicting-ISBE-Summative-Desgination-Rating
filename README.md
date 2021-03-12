@@ -7,3 +7,6 @@ The original data set can be found [here](https://www.isbe.net/_layouts/Download
 A Glossary of Terms can be found [here](https://www.isbe.net/Documents/2019-Report-Card-Glossary-Terms.pdf).
 
 The data set was chosen out of direct personal relation with it. I was a teacher at a school in the data set, A. Vito Martinez Middle School, from the 2011-2012 school year through the 2018-2019 school year. 
+
+Works Cited
+Illinois State Board of Education. “Report Card Data Library.” Illinois State Board of Education, Illinois State Board of Education, 30 Sept. 2019, www.isbe.net/pages/illinois-state-report-card-data.aspx. 
